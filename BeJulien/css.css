@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+}
+footer{
+    background-color: steelblue;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+#game {
+    display: flex;
+
+    /* This centers our sketch horizontally. */
+    justify-content: center;
+
+    /* This centers our sketch vertically. */
+    align-items: center;
+
+    margin-left: auto;
+    margin-right: auto;
+}
